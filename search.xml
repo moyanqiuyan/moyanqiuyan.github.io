@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F01%2F22%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[PPT分享]]></title>
     <url>%2F2018%2F01%2F21%2FPPT%E5%88%86%E4%BA%AB%2F</url>
     <content type="text"><![CDATA[无论是学习还是办公，我们都需要用到ppt，那么怎样让你的ppt变得高大上呢？当然是需要模板的加持，好的模板不仅让你的ppt漂亮起来，更是让你节省不少时间。 下载地址： 百度网盘 密码：izkw]]></content>

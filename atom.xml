@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://huifengxue.top/"/>
-  <updated>2018-01-24T09:24:32.000Z</updated>
+  <updated>2018-03-07T07:37:09.280Z</updated>
   <id>http://huifengxue.top/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>office2016自定义安装</title>
+    <link href="http://huifengxue.top/2018/03/07/office2016%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AE%89%E8%A3%85/"/>
+    <id>http://huifengxue.top/2018/03/07/office2016自定义安装/</id>
+    <published>2018-03-07T07:22:16.000Z</published>
+    <updated>2018-03-07T07:37:09.280Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天给大家分享一个office工具<br><img src="http://yanqiu.oss-cn-beijing.aliyuncs.com/pWW0je.png" alt=""></p><p>下载地址：(<a href="https://ecursotamandareg12br-my.sharepoint.com/:f:/g/personal/qiuyan_huiyanqianqiu_top/EmNKaaPYCnRBpadimn5mLLgB-7z3ABRfOpaZe79Mt9IGxA?e=HYXbKa" target="_blank" rel="noopener">https://ecursotamandareg12br-my.sharepoint.com/:f:/g/personal/qiuyan_huiyanqianqiu_top/EmNKaaPYCnRBpadimn5mLLgB-7z3ABRfOpaZe79Mt9IGxA?e=HYXbKa</a>)</p>]]></content>
+    
+    <summary type="html">
+    
+      office tool plus
+    
+    </summary>
+    
+      <category term="知识分享" scheme="http://huifengxue.top/categories/%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="office" scheme="http://huifengxue.top/tags/office/"/>
+    
+  </entry>
   
   <entry>
     <title>mbr与gpt的转换命令</title>
